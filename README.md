@@ -9,6 +9,8 @@ JLCPCB Customized PCB ×	1
 5730 SMD White LED ×	4
 
 1812 SMD 11 Ohm Resistor ×	4
+	
+ss12d10 3 pin through hole switch ×	1
 
 Hand tools and fabrication machines
 
