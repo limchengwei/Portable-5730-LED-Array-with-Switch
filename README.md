@@ -34,11 +34,11 @@ Therefore, each LED requires a 11 Ohms 1812 SMD resistor of 1W rating.
 
 The aim of this project is to create a portable flashlight that is very bright in the dark.
 
-![image](https://user-images.githubusercontent.com/85741357/181536149-2f3e6300-6665-4a94-983a-705bfcff1b95.png)
+![image](https://user-images.githubusercontent.com/85741357/181670425-facfafc5-e177-4944-bd99-45c179833b0e.png)
 
 5730 LED array front
 
-![image](https://user-images.githubusercontent.com/85741357/181536515-cc854d05-71bc-44eb-a74b-42b41dd7f7b5.png)
+![image](https://user-images.githubusercontent.com/85741357/181670447-73caee69-e053-4b0a-83a4-c3ec8c8cff41.png)
 
 5730 LED array back
 
